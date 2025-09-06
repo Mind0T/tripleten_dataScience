@@ -1,0 +1,29 @@
+Operadores aritmeticos
+
++ suma
+- resta
+* multiplicacion
+** potencia
+/ division con decimales // division con numero entero solamente
+% modulo o residuo de operacion
+
+
+TIPOS DE ERRORES
+
+-Errores de sintaxis
+SyntaxError:incomplete input
+
+-Erro de operacion
+
+print(777/0)  dividir entre cero
+ZeroDivisionError:division by zero
+
+sumar un string con numero
+TypeError:can only concatenate string...
+
+Error espacio de nombres
+
+NameError:name 'kiwi" is not defined
+
+
+MENEJO DE ERRORES
