@@ -13,7 +13,7 @@ TIPOS DE ERRORES
 -Errores de sintaxis
 SyntaxError:incomplete input
 
--Erro de operacion
+-Error de operacion
 
 print(777/0)  dividir entre cero
 ZeroDivisionError:division by zero
